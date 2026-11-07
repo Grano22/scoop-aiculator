@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.1",
   "description": "AI task swarm that runs coding tasks across harnesses, with verification",
   "homepage": "https://github.com/Grano22/aiculator",
   "license": "MIT",
@@ -8,14 +8,14 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Grano22/aiculator/releases/download/v0.8.0/aiculator_v0.8.0_windows_amd64.zip",
-      "hash": "7d10e9087aafea6e356f176f34e3cf91ed1de0518801e6413fdbb80ef647c3a9",
-      "extract_dir": "aiculator_v0.8.0_windows_amd64"
+      "url": "https://github.com/Grano22/aiculator/releases/download/v0.9.1/aiculator_v0.9.1_windows_amd64.zip",
+      "hash": "187c665e3863667db1279700e4f004b460b399b1f6e6dda108a6e54ff511c193",
+      "extract_dir": "aiculator_v0.9.1_windows_amd64"
     },
     "arm64": {
-      "url": "https://github.com/Grano22/aiculator/releases/download/v0.8.0/aiculator_v0.8.0_windows_arm64.zip",
-      "hash": "ac1b01425978813c9b8cf0bd5bad55e4c0a0832feddaa6b48ed46ea15da12b78",
-      "extract_dir": "aiculator_v0.8.0_windows_arm64"
+      "url": "https://github.com/Grano22/aiculator/releases/download/v0.9.1/aiculator_v0.9.1_windows_arm64.zip",
+      "hash": "cc213e094570dcadae8f6e539b721d5548de44ef86b6b6f1677f64a51b71ebf9",
+      "extract_dir": "aiculator_v0.9.1_windows_arm64"
     }
   },
   "bin": "aiculator.exe",
